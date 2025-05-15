@@ -2,18 +2,14 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [Getting Started](#getting-started)
 - [Instructions](#instructions)
 - [Dashboard Navigation](#dashboard-navigation)
 
 ## Overview
-Medica General Dashboard is a Tableau project that tracks the readmission rates, patient statistics, and demographics of a hospital. The dashboard provides a comprehensive overview of the hospital's performance, as well as detailed information on patient demographics, medical conditions, and initial services.
-
-## Getting Started
-To use the Medica General Dashboard, you will need to have Tableau Desktop installed on your computer. You can download a free trial of Tableau Desktop from the official Tableau website.
+CMS Gov Dashboard tracks the readmission rates, patient statistics, and demographics of a hospital. The dashboard provides a comprehensive overview of the hospital's performance, as well as detailed information on patient demographics, medical conditions, and initial services.
 
 ## Instructions
-1. Open the Medica General Dashboard in Tableau Desktop.
+1. Open the CMS Gov Dashboard in Tableau Desktop.
 2. Use the filters on the left sidebar to select the region, state, and county you want to analyze.
 3. Use the buttons on the top right of the dashboard to access demographic analysis and navigation instructions.
 4. Click on any data point on the graphs or charts to filter the dashboard by the specific variable.
