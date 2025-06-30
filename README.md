@@ -21,4 +21,4 @@ CMS Gov Dashboard tracks the readmission rates, patient statistics, and demograp
 - Demographic Sliders: Slide any of the sliders below the pie charts to filter the data.
 - Resetting Filters: To reset all filters at once, simply reload the webpage. To remove a single filter, click All on the left sidebar filter or click the selected data point to unselect it.
 
-Check out the dashboard - [Link](https://public.tableau.com/app/profile/prayuja.teli/viz/UnitedStatesHospitalAdmissions_17472778390390/Story)
+Check out the dashboard - [Link](https://public.tableau.com/app/profile/prayuja/viz/UnitedStatesHospitalAdmission/Story)
